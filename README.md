@@ -13,4 +13,4 @@ inspiration
 - him complaining made me think I can help him through making this website
 
 
-[Click to try it live](https://ethanpoeung.github.io/AI-workout-tracker/)
+[Click to try it](https://ethanpoeung.github.io/AI-workout-tracker/)
